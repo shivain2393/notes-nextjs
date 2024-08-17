@@ -19,7 +19,7 @@ async function dbConnect(){
   } catch (error) {
     console.error('Database connection failed:', error);
 
-    // Graceful exit in case of a connection error
+    // Graceful exit in case of a connection errorr
     process.exit(1);
   }
 }

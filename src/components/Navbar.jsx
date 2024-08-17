@@ -14,7 +14,7 @@ export default function Navbar() {
                 Quick Note
               </Link>
               <div className="flex gap-4">
-                <Link target="_blank" href="https://github.com/shivain2393" passHref>
+                <Link target="_blank" href="https://github.com/shivain2393/notes-nextjs" passHref>
                   <Button>Github</Button>
                 </Link>
                 <ThemeButton />
